@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(189, 183, 165);
+    font-family:    Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25em;
+    color:  rgb(27, 13, 66);
+
+}
+.fancyLine {
+    width: 50%;
+    text-align: center;
+    height: 2px;
+    background-color: rgb(27, 13, 66);
+}
+
+#siteTitle {
+    text-align: center;
+}
+#actionSection {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.blackSewingMachine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    }
+
+    
+    
+.button {
+    padding: 10px 20px;
+
+    font-size: 1em;
+    color: white;
+    background-color: hsl(327, 85%, 56%);
+    border-radius: 5px;
+    
+    }
